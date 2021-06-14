@@ -4,4 +4,5 @@ import numpy as np
 print("escriban algo en el replit")
 print("no me sale lo de los commit jaajaja aiuda ")
 print("al correo ejeje")
-print("Buenas. Llegó e")
+print("Buenas. Llegó el colado :c")
+print("veran el replit a lado hay como una rama del github miren si les deja hacer el commit-push")
